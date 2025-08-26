@@ -1,5 +1,4 @@
 # First Personal Site
 ###### Stylised Personal Site
-I prepared using pure HTML & CSS. This is first website that I made while learning web development. 
-This is not my actual cv. This is just a minor project that I made using HTML. You can view this website here :
+This is a simple CV website I built using only HTML and CSS—my very first creation while learning web development. It’s not my actual resume, but rather a small practice project to explore layout, styling, and structure. Feel free to check it out here:
 https://dipmitarudra.github.io/FirstPersonalSite/
